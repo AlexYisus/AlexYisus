@@ -1,5 +1,5 @@
 # About Me:
-Bienvenid@ a mi perfil de GitHub!<br>Soy Desarrollador Frontend, enfocado en crear interfaces web atractivas, intuitivas y funcionales para brindar la mejor experiencia de usuario posible.<br><br>🚀 Actualmente, me encuentro en constante aprendizaje, profundizando mis conocimientos en desarrollo frontend y explorando nuevos frameworks y herramientas modernas.<br><br>🛠️ Skills<br>Angular<br><br>Docker<br><br>JavaScript
+Bienvenid@ a mi perfil de GitHub!<br>Soy Desarrollador Frontend, enfocado en crear interfaces web atractivas, intuitivas y funcionales para brindar la mejor experiencia de usuario posible.<br><br>🚀 Actualmente, me encuentro en constante aprendizaje, profundizando mis conocimientos en desarrollo frontend y explorando nuevos frameworks y herramientas modernas.<br><br>
 
 
 ## 🌐 Socials:
